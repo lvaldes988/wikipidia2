@@ -1,0 +1,52 @@
+body{
+    margin-top: 15nh;
+    text-align: center;
+    background: rgb(23, 33, 36),
+}
+
+.imageContainer img{
+    margin-top: 2px;
+    border: ridge 3px navy;
+    min-width: 10vw;
+    min-height: 10vw;
+    margin-bottom: 1em;
+    border-radius: 13px;
+
+}
+
+li{
+    list-style-type: none;
+    font-size: 17px;
+}
+
+.search-term{
+    width: 285px;
+   height: 30px;
+   border-radius: 7px;
+   border: ridge navy;
+   font-stretch: semi-expanded;
+   font-weight: 500;
+   font-style: oblique;
+   font-size: 25px;
+}
+
+.search {
+    border-radius: 7px;
+    border: ridge navy;
+    height: 35px;
+    width: 99px;
+    font-size: 21px;
+}
+
+.ramdom {
+    border-radius: 7px;
+    border: ridge navy;
+    height: 37px;
+    width: 192px;
+    font-size: 19px;
+}
+
+
+li:hover {
+    background-color: rgb(231, 231, 247)
+    }
